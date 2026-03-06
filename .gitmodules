@@ -1,0 +1,6 @@
+[submodule "consumer-contracts"]
+	path = consumer-contracts
+	url = https://github.com/liidialabs/liiquidate-consumer-v1.git
+[submodule "cre-workflow"]
+	path = cre-workflow
+	url = https://github.com/liidialabs/liiquidate-workflow-v1.git
